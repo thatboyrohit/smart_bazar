@@ -35,10 +35,10 @@ Deleting Products
 Viewing Orders
 Changing Order Status
 
-##Screenshots
+## Screenshots:
 [click for screenshots](https://drive.google.com/drive/folders/1nVVZXwyh3r89mhLSesX4pxipC1KSQ-q1?usp=drive_link)
 
-##Application link
+## Application link:
 [click for application apk file](https://drive.google.com/drive/folders/13nx-18zfttY0OvdCS-6yPsMi-Ky6quga?usp=drive_link)
 
 ## Running Locally
