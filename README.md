@@ -8,11 +8,11 @@ In the ever-evolving landscape of e-commerce, businesses face challenges in adap
 Elevating security standards, our app features a robust user authentication system. Users can confidently access their accounts, knowing their information is safeguarded.
 - 2. Online Shopping Extravaganza:
 Immerse yourself in a diverse shopping experience. From the latest fashion trends to cutting-edge electronics, our app offers a vast product catalog accessible with just a few taps.
-- 3 . Effortless Delivery Tracking:
+- 3. Effortless Delivery Tracking:
 Bid farewell to delivery uncertainties. The app includes a state-of-the-art tracking system, offering real-time updates on the journey of your orders, ensuring you know exactly when to expect your package.
-- 4 . Secure Online Payments with GPay:
+- 4. Secure Online Payments with GPay:
 Enjoy a seamless checkout experience with Google Pay. Our integration not only streamlines payments but also ensures the highest standards of transaction security.
-- 5 . Empowering Admin Panel:
+- 5. Empowering Admin Panel:
 For business administrators, we've implemented a powerful admin panel. This feature allows for comprehensive management, including inventory oversight, order processing, and user analytics. The admin panel empowers businesses to make data-driven decisions and maintain operational excellence.
 
 ## Features
