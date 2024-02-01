@@ -15,25 +15,25 @@ Enjoy a seamless checkout experience with Google Pay. Our integration not only s
 5.Empowering Admin Panel:
 For business administrators, we've implemented a powerful admin panel. This feature allows for comprehensive management, including inventory oversight, order processing, and user analytics. The admin panel empowers businesses to make data-driven decisions and maintain operational excellence.
 
-Features
-Email & Password Authentication
-Persisting Auth State
-Searching Products
-Filtering Products (Based on Category)
-Product Details
-Rating
-Getting Deal of the Day
-Cart
-Checking out with Google/Apple Pay
-Viewing My Orders
-Viewing Order Details & Status
-Sign Out
-Admin Panel
-Viewing All Products
-Adding Products
-Deleting Products
-Viewing Orders
-Changing Order Status
+## Features
+- Email & Password Authentication
+- Persisting Auth State
+- Searching Products
+- Filtering Products (Based on Category)
+- Product Details
+- Rating
+- Getting Deal of the Day
+- Cart
+- Checking out with Google/Apple Pay
+- Viewing My Orders
+- Viewing Order Details & Status
+- Sign Out
+- Admin Panel
+    - Viewing All Products
+    - Adding Products
+    - Deleting Products
+    - Viewing Orders
+    - Changing Order Status
 
 ## Screenshots:
 [click for screenshots](https://drive.google.com/drive/folders/1nVVZXwyh3r89mhLSesX4pxipC1KSQ-q1?usp=drive_link)
